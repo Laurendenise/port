@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Sans-Serif:400, 700|Lora');
+
+
+/*------General Area------*/
+
+p {
+  font-size: 14px;
+}
+
+
+.margin {
+  margin-bottom: 45px;
+
+}
+
+/*body {
+    font: 20px Lora, sans-serif;
+    line-height: 1.8;
+    color: #C0C0C0;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-image: url('../images/dandelion.jpg');
+    background-position: center;
+}*/
+
+.bg-1 {
+    background-color: pink;
+    color: #000000;
+}
+
+.bg-2 {
+    background-color: #C0C0C0;
+    color: #000000;
+}
+
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+}
+
+.navbar-nav  li a:hover {
+    color: none;
+}
+
+.social  {
+  border-left: 1px solid #333;
+  margin-top: 20px;
+}
+
+.social a {
+  color: #000000;
+}
+
+.social a:focus, a:hover {
+  color: #FF827B;
+  text-decoration: none;
+}
